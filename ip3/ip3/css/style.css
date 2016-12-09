@@ -1,0 +1,28 @@
+header {
+    background-color: #f4b942;
+    width: auto;
+    height: 100px;
+    text-align: center;
+}
+
+#ping-pong {
+    padding-bottom: 40%;
+}
+
+#game {
+    padding-top: 70;
+    text-align: center;
+}
+
+body {
+    color: black;
+    background-color: #3c4401;
+    background-image: url(../images/back.jpg);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+}
+
+#no-bullets {
+    list-style-type: none;
+}

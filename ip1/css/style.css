@@ -1,0 +1,56 @@
+header {
+    background-color: #0a030f;
+    width: auto;
+    height: 100px;
+}
+
+body {
+    background-image: url(../images/musa.jpg);
+    color: white;
+}
+
+img {
+    border-radius: url(../images/best1.jpg);
+}
+
+h1 {
+    color: #c8cace;
+}
+
+#wrapper {
+    color: #c8cace;
+    font-size: 5;
+    font-style: italic;
+}
+
+.contacts {
+    text-align: right;
+}
+
+#contacts {
+    margin-top: 600px;
+}
+
+h4 {
+    color:
+}
+
+#wrapper {
+    font-style: italic;
+}
+
+#copyright {
+    text-align: center;
+}
+
+ul {
+    list-style-type: none;
+}
+
+#images {
+    align-content: center;
+}
+
+footer {
+    color: cyan;
+}

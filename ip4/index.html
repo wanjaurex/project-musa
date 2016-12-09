@@ -1,0 +1,63 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <meta charset="utf-8">
+    <link href="https://fonts.googleapis.com/css?family=Monoton" rel="stylesheet">
+    <link href="css/bootstrap.min.css" rel="stylesheet">
+    <link href="css/styles.css" rel="stylesheet">
+    <script src="js/jquery.min.js"></script>
+    <script src="js/scripts.js"></script>
+    <title>Pig Dice</title>
+</head>
+
+<body>
+
+    <background="img/back.jpg">
+
+        <div class="container-fluid header">
+
+            <h1>Pig Dice<img src="img/dice1.jpg"></h1>
+
+            <li>Pig is a very simple dice game that is exceptionally easy both to learn and to play</li>
+            <p>As a jeopardy dice game, it manages to keep players on the edge of their seat as they try to determine whether to risk it all or to play it safe.</p>
+
+        </div>
+
+        <div class="row players">
+            <div class="col-md-6 player1">
+                <h1>Player 1</h1>
+                <div class="col-md-offset-4 col-md-4">
+                    <button id="roll" class="btn btn-default btn-lg">Roll </button>
+                    <button id="turn" class="btn btn-warning btn-lg yellow">Turn</button>
+                </div>
+            </div>
+            <!-- End of .player1 -->
+
+            <div class="col-md-6 player2">
+                <h1>Player 2</h1>
+                <div class="col-md-offset-4 col-md-4">
+                    <button id="roll" class="btn btn-default btn-lg">Roll</button>
+                    <button id="roll" class="btn btn-warning btn-lg yellow">Turn</button>
+                </div>
+                <div class="row">
+                    <div class="col-md-6">
+                        <ul id="output1">
+
+                        </ul>
+                    </div>
+                    <div class="col-md-6">
+                        <ul id="output2">
+
+                        </ul>
+                    </div>
+
+                </div>
+            </div>
+            <!-- End of .player2 -->
+        </div>
+        <!-- End of .players -->
+
+</body>
+
+</html>

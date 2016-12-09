@@ -1,0 +1,208 @@
+.landing {
+    background-image: url('../img/landing.jpg');
+    text-align: center;
+    font-size: 36px;
+    margin-left: 0px;
+    width: 1400px;
+    height: 636px;
+}
+
+.nav1 {
+    opacity: 0.7;
+
+}
+
+.jumbotron {
+    width: 1400px;
+    height: 636px;
+}
+
+#jumbotron {
+    background-image: url('../img/foodsBg.jpg');
+    width: 1350px;
+    height: 599px;
+}
+
+#menulogo {
+    width: 1400px;
+    padding-top: 10%;
+}
+
+#Text {
+    color: white;
+    padding-top: 20%;
+}
+
+#logoText {
+    color: white;
+}
+
+.button1 {
+    background-color: white;
+    font-size: 28px;
+    text-align: center;
+    width: 350px;
+    height: 105px;
+}
+
+.button2 {
+    background-color: #f96018;
+    color: white;
+    font-size: 28px;
+    text-align: center;
+    width: 350px;
+    height: 105px;
+}
+
+.breakfast {
+    background-image: url('../img/breakfast.jpg');
+    font-size: 28px;
+    text-align: center;
+    width: 350px;
+    height: 210px;
+}
+
+.lunch {
+    background-image: url('../img/lunch.jpg');
+    font-size: 28px;
+    text-align: center;
+    opacity: 0.5;
+    width: 350px;
+    height: 210px;
+}
+
+.dinner {
+    background-image: url('../img/dinner.jpg');
+    font-size: 28px;
+    text-align: center;
+    width: 350px;
+    height: 210px;
+
+}
+
+#customers {
+    text-align: center;
+    -webkit-box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    box-sizing: border-box;
+}
+
+.box {
+    box-shadow: #f7f7f9;
+}
+
+#About {
+    text-align: right;
+}
+
+.subscribe {
+    background-image: url('../img/subscribe.jpg');
+    width: 1400px;
+    height: 301px;
+}
+
+.subscription {
+    color: white;
+    text-align: center;
+}
+
+#substate {
+    color: white;
+    text-align: center;
+    padding-top: 7%;
+}
+
+.navbar {
+    padding-left: 20%;
+}
+
+.nav1{
+    padding-top: 50px;
+}
+#nav-background{
+    background-color: white;
+}
+
+.boxed{
+    border: solid;
+    border-color: silver;
+    box-shadow: inset;
+    margin-left: 132px;
+}
+
+#box{
+    margin-right: 120px;
+}
+
+#boxify{
+    margin-left: 130px;
+}
+
+.left-half1{
+    text-align: right;
+}
+#no-dots{
+    list-style-type: none;
+}
+
+#chicken{
+    padding-left:5%;
+}
+
+#beef{
+padding-left
+}
+
+#pizza{
+ margin-right:0px;
+}
+
+.btn-group {
+    width: 1200px 200px;
+    padding-top: 10%;
+}
+
+#foods {
+    margin-left: 150px;
+    margin-right:170px;
+}
+
+.customers {
+    width: 914px;
+    height: 200px;
+}
+
+.boader1 {
+    border-style: solid;
+    border-color: black;
+    border-width: 900px;
+    margin:
+}
+
+footer {
+    background-color: #f96018;
+    width: 1400px;
+    height: 400px;
+}
+
+#sociallogo {
+    padding-left: 45%;
+}
+
+#logo_white {
+    text-align: center;
+    padding-top: 3%;
+    color: white;
+}
+
+#motto {
+    text-align: center;
+    padding-top: 1%;
+    color: white;
+}
+
+#copyright {
+    text-align: center;
+    padding-top: 2%;
+    color: white;
+}

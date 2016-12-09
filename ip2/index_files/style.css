@@ -1,0 +1,43 @@
+.tbackground {
+    background-image: url('../img/landing.jpg');
+    padding: 100px;
+    text-align: center;
+}
+
+.bbackground {
+    background-image: url('../img/foodsBg.jpg');
+    padding: 20% 0;
+}
+
+#menu-logo {
+    width: 1400px;
+    display: table-cell;
+    padding: 0px;
+}
+
+.breakfast {
+    width: 1400px;
+    margin: 0;
+    text-align: center;
+    display: table-cell;
+    padding bottom: 0px;
+    padding-left: 16%;
+}
+
+.lunch {
+    width: 1400px;
+    margin: 0;
+    text-align: right;
+    display: table-cell;
+    padding-bottom: 0%;
+    padding-left: 11%;
+
+}
+
+.dinner {
+    width: 1400px;
+    margin: 0;
+    text-align: left;
+    display: table-cell;
+    padding-left: 6%;
+}
